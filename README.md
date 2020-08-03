@@ -1,4 +1,4 @@
-# Brain-tumor prediction project
+# Brain tumor prediction project
 ![test4](https://user-images.githubusercontent.com/46414243/89139727-eaf80480-d53f-11ea-8bf0-23dbd8c80e73.gif)
 ## Our Presentation
 [Presentation](https://drive.google.com/file/d/1OZeMF7rGbibmX4iSC64ySkmRWsz4JYc-/view?usp=sharing)
